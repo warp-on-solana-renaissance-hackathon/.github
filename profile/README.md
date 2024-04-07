@@ -27,7 +27,7 @@ npm run dev
 
 Or visit our [website](https://warp-finance.vercel.app/)
 
-[Bridge page]([website](https://warp-finance.vercel.app/bridge)
+[Bridge page](https://warp-finance.vercel.app/bridge)
 
 
 ( 
