@@ -42,6 +42,11 @@ womrhole as the primary crosschain messaging protocol
 
 ipfs as storage.
 
+
+References:
+[womrholedocumentation](https://docs.wormhole.com/wormhole)
+[uniswap](https://docs.uniswap.org/sdk/v3/overview)
+[raydium](https://docs.chainstack.com/docs/solana-how-to-perform-token-swaps-using-the-raydium-sdk)
 )
 
 
